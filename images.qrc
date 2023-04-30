@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="image">
+    <file>icons8-home-page-32.png</file>
+    <file>DownArrow_white.png</file>
+    <file>icons8-nintendo-switch-logo-96.png</file>
+    <file>icons8-paint-palette-24.png</file>
+    <file>icons8-school-96 (1).png</file>
+    <file>icons8-api-24 (1).png</file>
+    <file>icons8-business-report-24 (1).png</file>
+    <file>icons8-settings-24.png</file>
+    <file>icons8-upload-to-the-cloud-24.png</file>
+  </qresource>
+</RCC>
